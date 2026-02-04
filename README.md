@@ -14,9 +14,15 @@
 
 ### 🚀 About Me
 
-💡 Passionate about building intelligent systems and full-stack applications that blend AI, IoT, and Blockchain technology.  
-💻 I love experimenting with new frameworks, designing scalable architectures, and solving real-world problems through clean and efficient code.  
-🌱 Currently exploring **AI Agent systems** and **Blockchain data automation**.
+💡 I'm an **AI & Full Stack Developer** focused on building **production-ready intelligent systems** using Machine Learning, Computer Vision, Blockchain, and IoT.  
+
+💻 I enjoy designing **end-to-end architectures** — from data pipelines and models to APIs, dashboards, and cloud deployment.  
+
+🧠 My work blends **AI, Edge Computing, and scalable web systems** to solve real-world problems.  
+
+🌱 Currently exploring **AI Agents, YOLO-based Computer Vision, Edge AI, MLOps, and Blockchain automation**.  
+
+⚡ I believe great software is not just smart — it's **useful, scalable, and human-friendly**.
 
 ---
 
@@ -24,48 +30,83 @@
 
 #### 💻 Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,express,mongodb,docker,git,linux" />
 </p>
 
-#### ⚙️ Areas of Focus
-- 🧠 Artificial Intelligence / Machine Learning  
-- 🌐 Full Stack Web Development (MERN)  
+#### 🛠 Engineering Focus
+- 🤖 AI Agents & Intelligent Systems  
+- 👁 Computer Vision (YOLO, Image Processing)  
+- 📦 MLOps & Model Deployment  
+- 🐳 Docker & Cloud Deployment  
+- ⚙️ Backend APIs & System Design  
+- 🌐 Scalable Full Stack Apps (MERN)  
 - 🔗 Blockchain & Smart Contracts  
 - 🤖 Internet of Things (IoT)  
+
+---
+
+### 🚧 Currently Building
+
+#### 🧠 SkillBridge-AI
+> **Tech:** Python, ML, NLP, React, Node.js, MongoDB  
+>  
+> An **AI-powered skill recommendation and career guidance platform** that analyzes user profiles, suggests learning paths, and connects skills to real-world opportunities using intelligent matching.
+
+---
+
+#### 👁 YOLO Vision System
+> **Tech:** Python, YOLO, OpenCV, Edge AI  
+>  
+> A **real-time object detection and classification system** using YOLO for high-accuracy visual understanding, optimized for **edge deployment and performance tuning**.
+
+---
+
+#### 🛡 Fake Account Detection System
+> **Tech:** Python, Machine Learning, Data Science  
+>  
+> A **machine learning-based fraud detection platform** that identifies fake and malicious accounts using behavioral, profile, and activity-based features with scalable preprocessing pipelines.
+
+---
+
+#### 🐳 AI Deployment Pipeline
+> **Tech:** Docker, FastAPI, Cloud, CI/CD  
+>  
+> Building a **production MLOps workflow** to containerize models, expose APIs, monitor performance, and deploy AI services with zero-downtime updates.
 
 ---
 
 ### 🌟 Featured Projects
 
 #### 🧩 [Cardano AI Agent](https://github.com/akshithnallaginnela/cardano-ai-agent)
-> **Tech:** Node.js, CardanoScan API, Discord/Telegram Bot  
+> **Tech:** Node.js, CardanoScan API, AI Agent, Discord/Telegram Bot  
 >  
-> An AI Blockchain Query Agent that interacts with the Cardano blockchain and answers queries like:
-> - "What's my wallet balance?"
-> - "Show me the last 5 transactions of this wallet."  
+> An **AI-powered blockchain assistant** that interacts with the Cardano network and answers natural-language queries such as:
+> - Wallet balance lookup  
+> - Transaction history retrieval  
+> - Address analytics  
 >  
-> It fetches blockchain data via the CardanoScan API and can be deployed as a **web app** or **chatbot**.
+> Designed to work as both a **web interface and conversational chatbot** for blockchain automation.
 
 ---
 
 #### 🦯 [Blind Man Stick](https://github.com/akshithnallaginnela/blind-man-stick)
 > **Tech:** Arduino, Ultrasonic Sensors, DHT22, Buzzer, Vibration Motor  
 >  
-> An **IoT-based assistive stick** for visually impaired individuals that detects obstacles, humidity, and provides **real-time alerts** for safe navigation.
+> An **IoT-based assistive device** for visually impaired individuals that detects obstacles, monitors environmental conditions, and provides **real-time haptic and audio alerts** for safe navigation.
 
 ---
 
 #### 🏥 [Pulse Appoint](https://github.com/akshithnallaginnela/pulse-appoint)
 > **Tech:** MERN Stack, Razorpay API  
 >  
-> A **comprehensive doctor appointment booking platform** built with the **MERN stack**, integrated with **Razorpay** for secure online payments and **real-time scheduling**.
+> A **comprehensive doctor appointment booking platform** built with the **MERN stack**, integrated with **Razorpay** for secure online payments and **real-time scheduling** with automated notifications.
 
 ---
 
 #### 🅿️ [ParkEase](https://github.com/akshithnallaginnela/parkease)
 > **Tech:** AI/ML, Node.js, MongoDB, React  
 >  
-> An **intelligent parking management system** that uses **AI/ML** to predict parking space availability and provide **real-time booking** features with availability forecasts.
+> An **intelligent parking management system** that uses **AI/ML** to predict parking space availability and provide **real-time booking** features with availability forecasts and dynamic pricing.
 
 ---
 
@@ -106,13 +147,36 @@
 
 ---
 
+### 💡 What I Love Working On
+
+- Building **AI products from scratch**  
+- Designing scalable backend systems  
+- Training & deploying ML models  
+- Solving real-world problems with data  
+- Open-source collaboration  
+- Edge AI & automation workflows  
+
+---
+
+### 🤝 Open for Collaboration
+
+I'm always interested in collaborating on:
+
+- AI / ML products  
+- Computer Vision systems  
+- Edge AI projects  
+- Blockchain automation  
+- Startup-style engineering builds  
+
+If you're building something impactful, let's connect and create 🚀
+
+---
+
 ### 🧩 Let's Connect!
 
 💌 Reach me at: **[akshithnallaginnela@gmail.com](mailto:akshithnallaginnela@gmail.com)**  
 💼 Connect on **[LinkedIn](https://www.linkedin.com/in/akshith-nallaginnela)**  
 
 <p align="center">
-  <i>“Building intelligent systems that make technology more human.”</i>
+  <i>"From data to deployment — building AI systems that actually work in the real world."</i>
 </p>
-
----
