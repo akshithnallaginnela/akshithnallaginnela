@@ -29,11 +29,37 @@
 ### 🧠 Tech Stack
 
 #### 💻 Languages & Frameworks
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,express,mongodb,docker,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,react,nodejs" />
+</p>
+
+#### 🗄️ Databases & Cloud
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase,gcp" />
+</p>
+
+#### 🤖 AI/ML & Data Science
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
+</p>
+
+#### 🛠️ Tools & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman,arduino" />
+</p>
+
+#### 🔗 Blockchain & Web3
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=solidity,ethereum" />
 </p>
 
 #### 🛠 Engineering Focus
+
 - 🤖 AI Agents & Intelligent Systems  
 - 👁 Computer Vision (YOLO, Image Processing)  
 - 📦 MLOps & Model Deployment  
@@ -48,29 +74,33 @@
 ### 🚧 Currently Building
 
 #### 🧠 SkillBridge-AI
+>
 > **Tech:** Python, ML, NLP, React, Node.js, MongoDB  
->  
+>
 > An **AI-powered skill recommendation and career guidance platform** that analyzes user profiles, suggests learning paths, and connects skills to real-world opportunities using intelligent matching.
 
 ---
 
 #### 👁 YOLO Vision System
+>
 > **Tech:** Python, YOLO, OpenCV, Edge AI  
->  
+>
 > A **real-time object detection and classification system** using YOLO for high-accuracy visual understanding, optimized for **edge deployment and performance tuning**.
 
 ---
 
 #### 🛡 Fake Account Detection System
+>
 > **Tech:** Python, Machine Learning, Data Science  
->  
+>
 > A **machine learning-based fraud detection platform** that identifies fake and malicious accounts using behavioral, profile, and activity-based features with scalable preprocessing pipelines.
 
 ---
 
 #### 🐳 AI Deployment Pipeline
+>
 > **Tech:** Docker, FastAPI, Cloud, CI/CD  
->  
+>
 > Building a **production MLOps workflow** to containerize models, expose APIs, monitor performance, and deploy AI services with zero-downtime updates.
 
 ---
@@ -78,9 +108,11 @@
 ### 🌟 Featured Projects
 
 #### 🧩 [Cardano AI Agent](https://github.com/akshithnallaginnela/cardano-ai-agent)
+>
 > **Tech:** Node.js, CardanoScan API, AI Agent, Discord/Telegram Bot  
->  
+>
 > An **AI-powered blockchain assistant** that interacts with the Cardano network and answers natural-language queries such as:
+>
 > - Wallet balance lookup  
 > - Transaction history retrieval  
 > - Address analytics  
@@ -90,22 +122,25 @@
 ---
 
 #### 🦯 [Blind Man Stick](https://github.com/akshithnallaginnela/blind-man-stick)
+>
 > **Tech:** Arduino, Ultrasonic Sensors, DHT22, Buzzer, Vibration Motor  
->  
+>
 > An **IoT-based assistive device** for visually impaired individuals that detects obstacles, monitors environmental conditions, and provides **real-time haptic and audio alerts** for safe navigation.
 
 ---
 
 #### 🏥 [Pulse Appoint](https://github.com/akshithnallaginnela/pulse-appoint)
+>
 > **Tech:** MERN Stack, Razorpay API  
->  
+>
 > A **comprehensive doctor appointment booking platform** built with the **MERN stack**, integrated with **Razorpay** for secure online payments and **real-time scheduling** with automated notifications.
 
 ---
 
 #### 🅿️ [ParkEase](https://github.com/akshithnallaginnela/parkease)
+>
 > **Tech:** AI/ML, Node.js, MongoDB, React  
->  
+>
 > An **intelligent parking management system** that uses **AI/ML** to predict parking space availability and provide **real-time booking** features with availability forecasts and dynamic pricing.
 
 ---
@@ -172,7 +207,7 @@ If you're building something impactful, let's connect and create 🚀
 
 ---
 
-### 🧩 Let's Connect!
+### 🧩 Let's Connect
 
 💌 Reach me at: **[akshithnallaginnela@gmail.com](mailto:akshithnallaginnela@gmail.com)**  
 💼 Connect on **[LinkedIn](https://www.linkedin.com/in/akshith-nallaginnela)**  
