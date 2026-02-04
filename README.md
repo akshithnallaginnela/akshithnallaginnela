@@ -29,37 +29,31 @@
 ### 🧠 Tech Stack
 
 #### 💻 Languages & Frameworks
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,react,nodejs,nextjs" />
 </p>
 
 #### 🗄️ Databases & Cloud
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase,gcp" />
 </p>
 
 #### 🤖 AI/ML & Data Science
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
 </p>
 
 #### 🛠️ Tools & DevOps
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman,arduino" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman,nginx,arduino" />
 </p>
 
 #### 🔗 Blockchain & Web3
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=solidity,ethereum" />
 </p>
 
 #### 🛠 Engineering Focus
-
 - 🤖 AI Agents & Intelligent Systems  
 - 👁 Computer Vision (YOLO, Image Processing)  
 - 📦 MLOps & Model Deployment  
@@ -74,33 +68,29 @@
 ### 🚧 Currently Building
 
 #### 🧠 SkillBridge-AI
->
 > **Tech:** Python, ML, NLP, React, Node.js, MongoDB  
->
+>  
 > An **AI-powered skill recommendation and career guidance platform** that analyzes user profiles, suggests learning paths, and connects skills to real-world opportunities using intelligent matching.
 
 ---
 
 #### 👁 YOLO Vision System
->
 > **Tech:** Python, YOLO, OpenCV, Edge AI  
->
+>  
 > A **real-time object detection and classification system** using YOLO for high-accuracy visual understanding, optimized for **edge deployment and performance tuning**.
 
 ---
 
 #### 🛡 Fake Account Detection System
->
 > **Tech:** Python, Machine Learning, Data Science  
->
+>  
 > A **machine learning-based fraud detection platform** that identifies fake and malicious accounts using behavioral, profile, and activity-based features with scalable preprocessing pipelines.
 
 ---
 
 #### 🐳 AI Deployment Pipeline
->
 > **Tech:** Docker, FastAPI, Cloud, CI/CD  
->
+>  
 > Building a **production MLOps workflow** to containerize models, expose APIs, monitor performance, and deploy AI services with zero-downtime updates.
 
 ---
@@ -108,11 +98,9 @@
 ### 🌟 Featured Projects
 
 #### 🧩 [Cardano AI Agent](https://github.com/akshithnallaginnela/cardano-ai-agent)
->
 > **Tech:** Node.js, CardanoScan API, AI Agent, Discord/Telegram Bot  
->
+>  
 > An **AI-powered blockchain assistant** that interacts with the Cardano network and answers natural-language queries such as:
->
 > - Wallet balance lookup  
 > - Transaction history retrieval  
 > - Address analytics  
@@ -122,25 +110,22 @@
 ---
 
 #### 🦯 [Blind Man Stick](https://github.com/akshithnallaginnela/blind-man-stick)
->
 > **Tech:** Arduino, Ultrasonic Sensors, DHT22, Buzzer, Vibration Motor  
->
+>  
 > An **IoT-based assistive device** for visually impaired individuals that detects obstacles, monitors environmental conditions, and provides **real-time haptic and audio alerts** for safe navigation.
 
 ---
 
 #### 🏥 [Pulse Appoint](https://github.com/akshithnallaginnela/pulse-appoint)
->
 > **Tech:** MERN Stack, Razorpay API  
->
+>  
 > A **comprehensive doctor appointment booking platform** built with the **MERN stack**, integrated with **Razorpay** for secure online payments and **real-time scheduling** with automated notifications.
 
 ---
 
 #### 🅿️ [ParkEase](https://github.com/akshithnallaginnela/parkease)
->
 > **Tech:** AI/ML, Node.js, MongoDB, React  
->
+>  
 > An **intelligent parking management system** that uses **AI/ML** to predict parking space availability and provide **real-time booking** features with availability forecasts and dynamic pricing.
 
 ---
@@ -166,19 +151,25 @@
 
 ---
 
-### 📊 GitHub Stats & Trophies
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshithnallaginnela&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshithnallaginnela&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
+  
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=akshithnallaginnela&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshithnallaginnela&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+  
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=akshithnallaginnela&theme=tokyonight" alt="GitHub Streak" />
-</p>
+### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akshithnallaginnela&theme=onedark&row=1&margin-w=10" alt="Trophies" />
-</p>
+<div align="center">
+  
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=akshithnallaginnela&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
+  
+</div>
 
 ---
 
@@ -207,7 +198,7 @@ If you're building something impactful, let's connect and create 🚀
 
 ---
 
-### 🧩 Let's Connect
+### 🧩 Let's Connect!
 
 💌 Reach me at: **[akshithnallaginnela@gmail.com](mailto:akshithnallaginnela@gmail.com)**  
 💼 Connect on **[LinkedIn](https://www.linkedin.com/in/akshith-nallaginnela)**  
