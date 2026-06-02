@@ -227,7 +227,7 @@ Solving urban parking challenges with **ML-powered availability prediction**:
 ## 📌 GitHub Stats & Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshithnallaginnela&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akshithnallaginnela&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=akshithnallaginnela&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&cache_seconds=1800" alt="GitHub Streak" width="49%" />
 </p>
 
