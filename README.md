@@ -224,6 +224,72 @@ Solving urban parking challenges with **ML-powered availability prediction**:
 
 ---
 
+## 🆕 New & ⭐ Best Repos
+
+### 🆕 New Repos
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/akshithnallaginnela/Aura-Finance">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshithnallaginnela&repo=Aura-Finance&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=1F6FEB" width="100%" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/akshithnallaginnela/limiter">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshithnallaginnela&repo=limiter&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=1F6FEB" width="100%" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/akshithnallaginnela/Hackk">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshithnallaginnela&repo=Hackk&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=1F6FEB" width="100%" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/akshithnallaginnela/shield-insight-labs">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshithnallaginnela&repo=shield-insight-labs&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=1F6FEB" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### ⭐ Best Repos
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/akshithnallaginnela/skillbridge-ai">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshithnallaginnela&repo=skillbridge-ai&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=1F6FEB" width="100%" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/akshithnallaginnela/parkease-AI-v2">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshithnallaginnela&repo=parkease-AI-v2&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=1F6FEB" width="100%" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/akshithnallaginnela/Browser-DLP">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshithnallaginnela&repo=Browser-DLP&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=1F6FEB" width="100%" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/akshithnallaginnela/cardano-ai-agent">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshithnallaginnela&repo=cardano-ai-agent&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=1F6FEB" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 📌 GitHub Stats & Achievements
 
 <p align="center">
