@@ -226,25 +226,18 @@ Solving urban parking challenges with **ML-powered availability prediction**:
 
 ## 📌 GitHub Stats & Achievements
 
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshithnallaginnela&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&include_all_commits=true&count_private=true)
-  
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=akshithnallaginnela&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)
-  
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshithnallaginnela&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=akshithnallaginnela&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&cache_seconds=1800" alt="GitHub Streak" width="49%" />
+</p>
 
-<div align="center">
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshithnallaginnela&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8)
-  
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshithnallaginnela&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&cache_seconds=1800" alt="Top Languages" width="49%" />
+</p>
 
-<div align="center">
-  
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=akshithnallaginnela&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
-  
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akshithnallaginnela&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" alt="Trophies" width="100%" />
+</p>
 
 ---
 
