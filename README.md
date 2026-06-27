@@ -31,7 +31,7 @@ I'm a **Full-Stack AI Engineer** building **production-grade intelligent systems
 
 ### 💻 Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nodejs,nextjs" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,node.js " />
 </p>
 
 ### 🗄️ Databases & Cloud Infrastructure
@@ -48,7 +48,7 @@ I'm a **Full-Stack AI Engineer** building **production-grade intelligent systems
 
 ### 🛠️ DevOps & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman,nginx" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman" />
 </p>
 
 ### 🔗 Blockchain & Web3
