@@ -1,4 +1,4 @@
-<img align="right" src="./ascii-portrait.svg" alt="ASCII portrait of Akshith Nallaginnela" width="280" />
+<img align="right" src="./portrait-visual.svg" alt="Stylized portrait of Akshith Nallaginnela" width="280" />
 
 <h1 align="center">👋 Hey there! I'm Akshith Nallaginnela</h1>
 
