@@ -1,3 +1,5 @@
+<img align="right" src="./ascii-portrait.svg" alt="ASCII portrait of Akshith Nallaginnela" width="280" />
+
 <h1 align="center">👋 Hey there! I'm Akshith Nallaginnela</h1>
 
 <p align="center">
@@ -24,6 +26,8 @@ I'm a **Full-Stack AI Engineer** building **production-grade intelligent systems
 - Contributing to open-source and collaborative engineering
 
 **Currently:** Exploring **AI Agents, YOLO-based real-time systems, Edge AI optimization, and Blockchain automation** — where latency matters and every millisecond counts.
+
+<br clear="right" />
 
 ---
 
